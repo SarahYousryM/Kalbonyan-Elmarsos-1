@@ -1,1 +1,6 @@
-The Modern JavaScript Bootcamp
+let petName = 'pal'
+
+petName = 'Spot'
+
+console.log(petName)
+

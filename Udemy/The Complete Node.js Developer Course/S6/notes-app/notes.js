@@ -1,8 +1,5 @@
-const chalk = require('chalk')
-const getNotes = require('./notes.js')
-const msg = getNotes()
-console.log(msg)
-const greenmsg = chalk.blue.inverse.bold('succes')
-console.log(greenmsg)
+const getNotes = function () {
+    return 'Your notes...'
+}
 
-console.log(process.argv[2])
+module.exports = getNotes

@@ -14,4 +14,4 @@ Learning objectives
 - Creating fluid layouts
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/?resume=false)
-<br>[Preview Certificate](https://drive.google.com/file/d/1eE3ytAYjCYdfQPzs3AhM35MRBaet8g6w/view)
+<br>[Preview Certificate](https://www.linkedin.com/posts/sarah-y-83a613135_certificateofcompletioncss-essential-trainingpdf-activity-6860695614850691073-a41-)
